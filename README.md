@@ -1,1 +1,3 @@
 # OpenGL_Learning
+
+Working around with events, textures, camera, shapes in 3d space, culling, Hud, moving/rotating in 3d, moving/rotating objects in 3d, and ...
