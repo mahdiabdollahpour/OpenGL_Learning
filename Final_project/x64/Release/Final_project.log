@@ -1,0 +1,21 @@
+﻿  Source.cpp
+c:\users\asus\source\repos\graphichw1\final_project\shader.h(56): warning C4101: 'e': unreferenced local variable
+Source.cpp(297): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(381): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(390): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(398): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(405): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(495): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+Source.cpp(498): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(553): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(554): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(558): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(559): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(560): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Source.cpp(561): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  30 of 682 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Final_project.vcxproj -> C:\Users\ASUS\source\repos\GraphicHW1\x64\Release\Final_project.exe
